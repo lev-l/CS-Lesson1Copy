@@ -13,6 +13,7 @@ public class Student {
     /*
      * Sets study planner and scanner
      */
+    // I'm just going to write this comment 'cause why not
     public Student() {
         planner = new StudyPlanner();
         scanner = new Scanner(System.in);
